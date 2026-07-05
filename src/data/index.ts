@@ -253,7 +253,9 @@ export const footerLinks = [
   { name: "Data Deletion", link: "#" },
 ];
 
+// this is footer socials
 export const footerSocials = [
   { name: "LinkedIn", link: "https://www.linkedin.com/in/ahmad-wafiuddin-3b9046405/" },
   { name: "GitHub", link: "https://github.com/Decentalized" },
 ];
+ 
