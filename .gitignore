@@ -1,1 +1,32 @@
-node_modules
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# env & secrets
+.env
+.env*.local
+
+# debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# typescript
+*.tsbuildinfo
+
+# deployment
+.vercel
+
+# os
+.DS_Store
+Thumbs.db
+
+# local scratch (reference site downloads — not part of the app)
+/_ref/
