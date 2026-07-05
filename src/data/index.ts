@@ -15,7 +15,7 @@ export const siteConfig = {
   linkedinDisplay: "linkedin.com/in/ahmad-wafiuddin-3b9046405",
   github: "https://github.com/Decentalized",
   email: "",
-  profileImage: "https://github.com/Decentalized.png",
+  profileImage: "/me.png",
 };
 
 export const navItems = [
@@ -138,6 +138,22 @@ export const projects = [
     img: "/p4.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg", "/fm.svg"],
     link: "https://github.com/Decentalized/creaticles-website",
+  },
+  {
+    id: 5,
+    title: "Orient Sailing Partners",
+    des: "Corporate WordPress site for a Kobe-based web development studio — services, works portfolio, company profile, and product showcase for their CORDi interior shop.",
+    img: "/b4.svg",
+    iconLists: ["/host.svg", "/app.svg", "/re.svg", "/window.svg"],
+    link: "https://orient-sailing.com/",
+  },
+  {
+    id: 6,
+    title: "SOGOKAGU",
+    des: "Enterprise WordPress site for a leading Japanese commercial furniture manufacturer — product catalog, showroom, news, and bilingual corporate content at scale.",
+    img: "/b5.svg",
+    iconLists: ["/host.svg", "/app.svg", "/re.svg", "/globe.svg"],
+    link: "https://www.sogokagu.co.jp/",
   },
 ];
 
